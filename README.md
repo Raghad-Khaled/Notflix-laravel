@@ -79,6 +79,16 @@
  </tr>
 
   </table>
+
+   <h1> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-high-five.png" width=45px  alt="" align="center"/> The UI designed by:  
+ </h1>
+<div align="center">
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/DoniaEsawi"><img src="https://avatars.githubusercontent.com/u/56982963?v=4" width="100px;" alt=""/><br /><sub><b>Donia Esawy</b></sub></a><br />
+    </td>
+    </tr>
+  </table>
   
 
 </div>
