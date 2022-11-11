@@ -39,6 +39,7 @@
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob//blob-amused.png" alt="icons8-pacman-48" border="0" width=52px align="center"/> Features
  </H1>
  <ul>
+ <h2>Multi Authentication</h2>
  <h2>User</h2>
  <li> SignUp/ LohIn User</li>
  <li> Filter movies and series according to (Language/ Genre/ Era) </li>
@@ -61,26 +62,37 @@
  
  <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/DoniaEsawi/NotFlix/main/Screenshot%20(260).png"  width="600px;" align="center" alt=""/><br /><br />
-    </td>
-    </tr>
-<tr>
-  <tr>
+     <tr>
     <td align="center"><img src="https://github.com/DoniaEsawi/NotFlix/blob/main/ezgif-6-7e49ffef7dbd.gif"  width="600px;" align="center" alt=""/><br /><br />
     </td>
     </tr>
-<tr>
+        <tr>
     <td align="center"><img src="https://i.ibb.co/HNxGhbN/ezgif-com-gif-maker-1.gif" align="center"  width="600px;" alt=""/><br /><br />
     </td>
  </tr>
  <tr>
-  <td align="center"><img src="https://raw.githubusercontent.com/DoniaEsawi/NotFlix/main/Screenshot%20(263).png"  width="600px;" align="center"  alt=""/><br /><br />
+  <td align="center">
+  <h2> LogIn page </h2>
+  <img src="https://raw.githubusercontent.com/Raghad-Khaled/Notflix-laravel/master/public/readmeimg/login.PNG"  width="600px;" align="center"  alt=""/><br /><br />
     </td> 
  </tr>
+    <tr>
+    <td align="center">
+    <h2> Dashboard for Admins </h2>
+    <img src="https://raw.githubusercontent.com/Raghad-Khaled/Notflix-laravel/master/public/readmeimg/dashboard.PNG"  width="600px;" align="center" alt=""/><br /><br />
+    </td>
+    </tr>
+    <tr>
+    <td align="center">
+    <h2> Contol panal (Update Actor) </h2>
+    <img src="https://raw.githubusercontent.com/Raghad-Khaled/Notflix-laravel/master/public/readmeimg/update.PNG"  width="600px;" align="center" alt=""/><br /><br />
+    </td>
+    </tr>
+
 
   </table>
 
-   <h1> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-high-five.png" width=45px  alt="" align="center"/> The UI designed by:  
+   <h1> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-high-five.png" width=45px  alt="" align="center"/> UI designed by:  
  </h1>
 <div align="center">
 <table>
