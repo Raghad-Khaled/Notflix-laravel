@@ -26,8 +26,4 @@ yarn-error.log
 /public/plugins/overlayScollbars
 /public/plugins/summernote
 /public/plugins/sparklines
-/public/plugins/sweetalert2
-/public/plugins/icheck-bootstrap
-/public/plugins/daterangepicker
-/public/plugins/uplot
 
