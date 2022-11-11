@@ -18,3 +18,4 @@ yarn-error.log
 /public/assets/
 /public/plugins/
 /public/dist/img
+/public/dist/css
