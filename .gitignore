@@ -16,8 +16,4 @@ yarn-error.log
 /.vscode
 /public/images/
 /public/assets/
-/public/plugins/bootstrap
-/public/plugins/fontawesome-free
-/public/plugins/jquery
-/public/plugins/jquery-knob
 
