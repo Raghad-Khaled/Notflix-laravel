@@ -41,7 +41,7 @@
  <ul>
  <h2>Multi Authentication</h2>
  <h2>User</h2>
- <li> SignUp/ LohIn User</li>
+ <li> SignUp/ LogIn User</li>
  <li> Filter movies and series according to (Language/ Genre/ Era) </li>
  <li> Pagenation for movies/series </li>
  <li> Rate movies/series </li>
